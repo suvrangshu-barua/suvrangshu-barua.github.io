@@ -10,3 +10,7 @@ Dig lands, find valuable vintage items and sell them to the highest bidder! Deco
 Technical tags
 -----
 Mesh deformation, Divide & Conquer for optimization, Hybrid Casual 
+
+Link
+-----
+[Download](https://play.google.com/store/apps/details?id=com.kolpoverse.idlepawnshop)
