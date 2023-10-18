@@ -3,9 +3,10 @@ title: "Idle Pawnshop"
 excerpt: "Dig lands, find valuable vintage items and sell them to the highest bidder!<br/><img src='/images/pro1.gif'>"
 collection: portfolio
 ---
-Description
+Contribution
 -----
-Dig lands, find valuable vintage items and sell them to the highest bidder! Decorate your museum to show off the awesome artifacts you collected. People pay good money just to look at them! Expand your empire to become the next pawnshop tycoon! Cheers!
+* Prototype development, particles & other visual feedbacks 
+* SDK implementation, mesh deformation optimization for performance boost
 
 Technical tags
 -----
