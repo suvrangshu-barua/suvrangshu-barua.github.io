@@ -19,7 +19,7 @@ redirect_from:
 * Game Developer at Kolpoverse Studios, Dec 2022 - Present
   * Creating designer friendly automation tools in Unity for quick execution
   * Developing hybrid & hypercasual prototypes 
-  * Creating shaders for other projects using shader graph, compute shader & HLSL language
+  * Creating cool shaders using shader graph, compute shader & HLSL language
 * Junior Game Programmer at Alpha Potato LLC, Jan 2020 - Nov 2022
   * Contributed in two published games ([Prank Master 3D](https://apps.apple.com/us/app/prank-master-3d/id1528127833), [Pawn Shop Master](https://apps.apple.com/us/app/pawn-shop-master/id1511472595))
   * Developed quick prototypes for marketebility testing on hyper casual genre
