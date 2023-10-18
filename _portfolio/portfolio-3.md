@@ -1,6 +1,6 @@
 ---
 title: "Super Power Master"
-excerpt: "<img src='/images/pro5.jpg'>"
+excerpt: "<img src='/images/pro5.gif'>"
 collection: portfolio
 ---
 
