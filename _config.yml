@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Suvrangshu's Homepage'"
+title                    : "Suvrangshu's Homepage"
 title_separator          : "-"
 name                     : &name "Suvrangshu Barua"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Suvrangshu Barua"
-  avatar           : "prof_pic.jpeg"
+  avatar           : "prof_pic.jpg"
   bio              : "Game Developer"
   location         : "Dhaka, Bangladesh"
   employer         :

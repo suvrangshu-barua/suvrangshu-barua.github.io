@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc : Computer Science & Enginnering, Khulna University of Engineering & Technology, 2019
+* H.S.C: Chittagong College, 2014
+* S.S.C: Chittagong Collegiate School, 2012
 
 Work experience
 ======
