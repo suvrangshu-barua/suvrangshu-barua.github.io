@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Idle Pawnshop"
+excerpt: "Dig lands, find valuable vintage items and sell them to the highest bidder!<br/><img src='/images/pro1.gif'>"
 collection: portfolio
 ---
+Description
+-----
+Dig lands, find valuable vintage items and sell them to the highest bidder! Decorate your museum to show off the awesome artifacts you collected. People pay good money just to look at them! Expand your empire to become the next pawnshop tycoon! Cheers!
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Technical tags
+-----
+Mesh deformation, Divide & Conquer for optimization, Hybrid Casual 

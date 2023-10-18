@@ -7,11 +7,11 @@ the position values of the angle in the 2-dimensional array and run them in loop
 date: 2021-12-04
 venue: '2021 International Conference on Big Data, IoT & Machine Learning'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-16-6636-0_32'
-citation: 'Barua A, Islam T, Alam A, Barua S. (2022).&quot;Iot Controlled Six Degree Freedom Robotic Arm Model for Repetitive Task.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Barua A, Islam T, Alam A, Barua S. (2022).&quot;Iot Controlled Six Degree Freedom Robotic Arm Model for Repetitive Task.&quot; <i>LNDECT, v-95</i>. 419-429.'
 ---
 The study intends to fabricate a 6 degree of freedom articulated robotic arm with a gripper that will be controlled by IoT. After designing the arm in Solidworks, fabrications was done using mechanical hardware like beam bracket, U and L-shaped brackets and gripper made of aluminum alloy. The robot arm was given 4 revolute joints with one degree of freedom in the base, shoulder, elbow and wrist. The end effector was given two revolute joints at the gripper and the gripper joint to fulfill the six degrees of freedom estimation. So it can revolve in 3D plane to grip object. The study intends to experiment on the response of the arm while it is controlled by IoT using an android app for sending instructions to the arm. The arm was controlled successfully with higher internet speed from different districts using IoT and the response timing was recorded not more than 11 seconds. In recent times training the robotic parts is really getting a lot of importance. The training is often done by complex calculations and time-consuming approaches. The arm built here is expected to be trained for repetitive task loops. The program setup is such that it would store
 the position values of the angle in the 2-dimensional array and run them in loops when the proper command is given.
 
 [Download paper here](https://link.springer.com/chapter/10.1007/978-981-16-6636-0_32)
 
-Recommended citation: Barua A, Islam T, Alam A, Barua S. (2022). "Iot Controlled Six Degree Freedom Robotic Arm Model for Repetitive Task" <i>Journal 1</i>. 1(1).
+Recommended citation: Barua A, Islam T, Alam A, Barua S. (2022). "Iot Controlled Six Degree Freedom Robotic Arm Model for Repetitive Task" <i>LNDECT, v-95</i>. 419-429.
