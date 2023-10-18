@@ -14,20 +14,20 @@ redirect_from:
 
 🎯 Currently working on my physical wellbeing 💪 & daily habits 📋
 
-Job Experience
+👨‍💻 Job Experience
 ------
 * Game Developer at Kolpoverse Studios, Dec 2022 - Present
   * Creating designer friendly automation tools in Unity for quick execution
   * Developing hybrid & hypercasual prototypes 
   * Creating shaders for other projects using shader graph, compute shader & HLSL language
-* Junior Game Programmer, Alpha Potato LLC, Jan 2020 - Nov 2022
-  * Contributed in two published games ([https://apps.apple.com/us/app/prank-master-3d/id1528127833](Prank Master 3D), [https://apps.apple.com/us/app/pawn-shop-master/id1511472595](Pawn Shop Master))
+* Junior Game Programmer at Alpha Potato LLC, Jan 2020 - Nov 2022
+  * Contributed in two published games ([Prank Master 3D](https://apps.apple.com/us/app/prank-master-3d/id1528127833), [Pawn Shop Master](https://apps.apple.com/us/app/pawn-shop-master/id1511472595))
   * Developed quick prototypes for marketebility testing on hyper casual genre
   * Collaborated with project management to design levels,conceptualize games
   and playtest
   * SDK integration & performance optimization
 
-<!-->
+<!--
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -55,7 +55,7 @@ How to edit your site's GitHub repository
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+[Editing a markdown file for a talk](/images/editing-talk.png)
 
 For more info
 ------
