@@ -1,6 +1,6 @@
 ---
 title: "Prank Master 3D"
-excerpt: "Top Chart No 3 (2020) <br/><img src='/images/pro4.jpg'>"
+excerpt: "<img src='/images/pro4.jpg'>"
 collection: portfolio
 ---
 

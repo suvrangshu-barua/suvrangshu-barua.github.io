@@ -1,6 +1,6 @@
 ---
 title: "Idle Pawnshop"
-excerpt: "Dig lands, find valuable vintage items and sell them to the highest bidder!<br/><img src='/images/pro1.gif'>"
+excerpt: "<img src='/images/pro1.gif'>"
 collection: portfolio
 ---
 Contribution

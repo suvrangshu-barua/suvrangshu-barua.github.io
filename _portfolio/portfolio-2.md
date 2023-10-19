@@ -1,6 +1,6 @@
 ---
 title: "Cool Transition"
-excerpt: "Texture Transition with dissolve effect <br/><img src='/images/pro2.gif'>"
+excerpt: "<img src='/images/pro2.gif'>"
 collection: portfolio
 ---
 

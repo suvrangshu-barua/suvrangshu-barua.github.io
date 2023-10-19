@@ -1,6 +1,6 @@
 ---
 title: "Pool Rules"
-excerpt: "Narrative driven choice-based game<br/><img src='/images/pro6.jpg'>"
+excerpt: "<img src='/images/pro6.jpg'>"
 collection: portfolio
 ---
 

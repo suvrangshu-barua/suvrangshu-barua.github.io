@@ -1,6 +1,6 @@
 ---
 title: "Ragdoll Stunt Hero"
-excerpt: "20K+ Downloads! <br/><img src='/images/pro3.jpg'>"
+excerpt: "<img src='/images/pro3.jpg'>"
 collection: portfolio
 ---
 
