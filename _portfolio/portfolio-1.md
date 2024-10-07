@@ -2,16 +2,14 @@
 title: "Idle Pawnshop"
 excerpt: "<div style='display: flex; align-items: center; justify-content: space-between;'>
              <div style='flex: 1;'>
+               <h2>Description</h2>
+               <p>Idle Pawnshop is a hybrid casual game where players take on the role of a pawnshop owner, digging for historical artifacts and lost parts of objects to sell or display in their shop. The game features several digging locations and a rarity system for artifacts, allowing players to collect and reconstruct historical figures to enhance their shop's reputation. As players attract more customers and generate income, they can expand their pawnshop into a museum, showcasing their collection.</p>
+
                <h2>Contribution</h2>
                <ul>
-                 <li>Prototype development, particles & other visual feedbacks</li>
-                 <li>SDK implementation, mesh deformation optimization for performance boost</li>
-               </ul>
-
-               <h2>Technical tags</h2>
-               <ul>
-                 <li>Mesh deformation, Divide & Conquer for optimization</li>
-                 <li>Hybrid Casual</li>
+                 <li>Implemented a Divide and Conquer based approch to optimize mesh deformation in real-time, resulting in a performance boost from 30 fps to 60 fps on low-end devices</li>
+                 <li>Developed the core game loop, an intuitive tutorial system, and responsive animated feedbacks, improving player engagement and overall game feel</li>
+                 <li>Developed a robust save system to manage complex data, such as digging progression and inventory, making sure players do not lose game progress</li>
                </ul>
 
                <h2>Link</h2>
