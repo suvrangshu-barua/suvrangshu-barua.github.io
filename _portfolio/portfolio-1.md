@@ -1,6 +1,6 @@
 ---
 title: "Idle Pawnshop"
-excerpt: "<div 'display: flex; align-items: center; justify-content: space-between; font-size: 11px;'>
+excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px;'>
              <div style='flex: 1;'>
                <h2 style='font-size: 14px;'>Description</h2>
                <p>Idle Pawnshop is a hybrid casual game where players take on the role of a pawnshop owner, digging for historical artifacts and lost parts of objects to sell or display in their shop. The game features several digging locations and a rarity system for artifacts, allowing players to collect and reconstruct historical figures to enhance their shop's reputation. As players attract more customers and generate income, they can expand their pawnshop into a museum, showcasing their collection.</p>
