@@ -7,7 +7,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
 
                <h2 style='font-size: 14px; margin: 5px 0;'>Contribution</h2>
                <ul>
-                 <li style='margin: 2px 0;'>Implemented a <b>Divide and Conquer</b> based approch to optimize mesh deformation in real-time, resulting in a performance boost from 30 fps to 60 fps on low-end devices</li>
+                 <li style='margin: 2px 0;'>Implemented a <b>Divide and Conquer</b> based approach to optimize mesh deformation in real-time, resulting in a performance boost from 30 fps to 60 fps on low-end devices</li>
                  <li style='margin: 2px 0;'>Developed the core game loop, an intuitive tutorial system, and responsive animated feedbacks, improving player engagement and overall game feel</li>
                  <li style='margin: 2px 0;'>Developed a robust save system to manage complex data, such as digging progression and inventory, making sure players do not lose game progress</li>
                </ul>
@@ -20,16 +20,3 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
              </div>
            </div>"
 collection: portfolio
----
-Contribution
------
-* Prototype development, particles & other visual feedbacks 
-* SDK implementation, mesh deformation optimization for performance boost
-
-Technical tags
------
-Mesh deformation, Divide & Conquer for optimization, Hybrid Casual 
-
-Link
------
-[Download](https://play.google.com/store/apps/details?id=com.kolpoverse.idlepawnshop)
