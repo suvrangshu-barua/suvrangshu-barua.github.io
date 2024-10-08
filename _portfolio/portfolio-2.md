@@ -1,7 +1,7 @@
 ---
 title: "Idle Power City"
 excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px;'>
-             <div style='flex: 1; margin-left: 20px;'>
+             <div style='flex: 1; margin-right: 20px;'>
                <img src='/images/pro2.gif' alt='Idle Pawnshop' style='max-width: 100%;'>
              </div>
              <div style='flex: 1;'>
