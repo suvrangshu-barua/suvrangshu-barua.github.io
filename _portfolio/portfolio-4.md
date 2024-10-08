@@ -1,18 +1,17 @@
 ---
-title: "Prank Master 3D"
-excerpt: "<img src='/images/pro4.jpg'>"
+title: "Super Power Master"
+excerpt: "<img src='/images/pro5.gif'>"
 collection: portfolio
 ---
 
 Contribution
 -----
-* Developed 20 levels & particle effects
-* Created customized ads for marketing
+Prototype & visuals development  
 
 Technical tags
 -----
-Simulation
+Arcade, Cooldown
 
 Link
 -----
-[Download](https://play.google.com/store/apps/details?id=com.alphapotato.prankster)
+[Download](https://play.google.com/store/apps/details?id=com.kolpoverse.superpowermaster)

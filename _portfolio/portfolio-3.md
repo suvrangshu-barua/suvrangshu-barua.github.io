@@ -1,17 +1,14 @@
 ---
-title: "Super Power Master"
-excerpt: "<img src='/images/pro5.gif'>"
+title: "Fight For World"
+excerpt: "<img src='/images/pro14.gif'>"
 collection: portfolio
 ---
 
 Contribution
 -----
-Prototype & visuals development  
+Prototype & visual development in short period
 
 Technical tags
 -----
-Arcade, Cooldown
+Arcade
 
-Link
------
-[Download](https://play.google.com/store/apps/details?id=com.kolpoverse.superpowermaster)
