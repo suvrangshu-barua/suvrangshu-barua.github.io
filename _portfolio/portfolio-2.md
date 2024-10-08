@@ -11,8 +11,8 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                <h2 style='font-size: 14px; margin: 5px 0;'>Contribution</h2>
                <ul>
                  <li style='margin: 2px 0;'>Improved visual effects to enhance game feel</li>
-                 <li style='margin: 2px 0;'>Worked on level design to balance difficulty and progression</li>
-                 <li style='margin: 2px 0;'>Implemented a timer-based quest system to encourage regular player interaction and improved playtime by 15%</li>
+                 <li style='margin: 2px 0;'>Worked on level and economy design to balance difficulty and progression</li>
+                 <li style='margin: 2px 0;'>Implemented a <b>event-based quest system</b> to encourage regular player interaction and <b>improved playtime by 15%</b></li>
                  <li style='margin: 2px 0;'>Developed game reward features to enhance the sense of achievement and progression</li>
                  <li style='margin: 2px 0;'>Worked on analytics and SDK implementation to better track data and get measureable mertics</li>
                  
