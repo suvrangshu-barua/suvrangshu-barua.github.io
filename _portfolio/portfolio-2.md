@@ -1,6 +1,9 @@
 ---
 title: "Idle Power City"
 excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px;'>
+             <div style='flex: 1; margin-left: 20px;'>
+               <img src='/images/pro2.gif' alt='Idle Pawnshop' style='max-width: 100%;'>
+             </div>
              <div style='flex: 1;'>
                <h2 style='font-size: 14px; margin: 5px 0;'>Description</h2>
                <p style='margin: 5px 0;'>In 'Idle Power City' you hold the keys to a vibrant and electrifying metropolis! Harness the forces of nature with solar panels, wind turbines, water turbines, and even delve into the world of fossil fuels with oil mines. Your goal? To power up an ever-growing array of buildings and businesses. Build your city, one energy cell at a time. Watch as lights flicker to life, machines hum with energy, and your city comes alive with each power-up. </p>
@@ -18,9 +21,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>
                <a href='https://play.google.com/store/apps/details?id=com.bigbang.idlepowercity'>Download</a>
              </div>
-             <div style='flex: 1; margin-left: 20px;'>
-               <img src='/images/pro2.gif' alt='Idle Pawnshop' style='max-width: 100%;'>
-             </div>
+             
            </div>"
 collection: portfolio
 ---
