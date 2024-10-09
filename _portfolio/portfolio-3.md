@@ -7,8 +7,8 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
 
                <h2 style='font-size: 14px; margin: 5px 0;'>Contribution</h2>
                <ul>
-                 <li style='margin: 2px 0;'>Developed the optimized shooting mechanics, dynamic hoard spawning system to deliver engaging experience</li>
-                 <li style='margin: 2px 0;'>Contributed in the VFX and sounds to significantly improve game feel</li>
+                 <li style='margin: 2px 0;'>Developed the optimized shooting mechanics, dynamic hoard spawning system using <b>object pooling</b> technique to deliver engaging experience</li>
+                 <li style='margin: 2px 0;'>Contributed in the <b>VFX (shaders and particle systems)</b> and sounds to significantly improve game feel</li>
                  <li style='margin: 2px 0;'>Designed and developed a robust save system to manage stats</li>
                </ul>
 

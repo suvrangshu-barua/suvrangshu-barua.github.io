@@ -13,7 +13,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                  <li style='margin: 2px 0;'>Developed the core gameplay loop and leveraged <b>object pooling</b> to optimize spawn systems (projectiles, enemies etc).</li>
                  <li style='margin: 2px 0;'>Contributed in sound and performant <b>particle systems</b> to significantly improve game feel</li>
                  <li style='margin: 2px 0;'>Designed and developed a robust data system using <b>scriptable objects</b></li>
-                 <li style='margin: 2px 0;'>Used <b>stencil shader</b> to implement hole gameplay</b></li>
+                 <li style='margin: 2px 0;'>Used <b>stencil shader</b> to implement hole gameplay</li>
                </ul>
 
                <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>
