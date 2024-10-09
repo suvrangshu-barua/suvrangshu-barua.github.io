@@ -20,8 +20,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
 
                <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>
                <a href='https://play.google.com/store/apps/details?id=com.bigbang.idlepowercity'>Download</a>
-             </div>
-             
+             </div>            
            </div>"
 collection: portfolio
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Ragdoll Stunt Hero"
-excerpt: "<img src='/images/pro13.jpg'>"
+excerpt: "<img src='/images/pro13.gif'>"
 collection: portfolio
 ---
 
