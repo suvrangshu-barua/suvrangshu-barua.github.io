@@ -1,6 +1,6 @@
 ---
 title: "Ragdoll Stunt Hero"
-excerpt: "<img src='/images/pro13.gif alt='Idle Power City' style='max-width: 100%;'>"
+excerpt: "<img src='/images/pro13.gif' alt='Ragdoll Stunt Man' style='max-width: 100%;'>"
 collection: portfolio
 ---
 
