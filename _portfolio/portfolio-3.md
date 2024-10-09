@@ -16,7 +16,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                <a href='https://play.google.com/store/apps/details?id=com.bigbang.fightforworld'>Download</a>
              </div>
              <div style='flex: 1; margin-left: 20px;'>
-               <img src='/images/pro14.gif' alt='Fight For World' style='max-width: 100%;'>
+               <img src='/images/pro14.gif' alt='Fight For World' style='max-width: 75%;'>
              </div>
            </div>"
 collection: portfolio

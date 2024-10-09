@@ -16,7 +16,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                <a href='https://play.google.com/store/apps/details?id=com.alphapotato.ragdollstunthero'>Download</a>
              </div> 
              <div style='flex: 1; margin-right: 20px;'>
-               <img src='/images/pro13.gif' alt='Ragdoll Stunt Hero' style='max-width: 100%;'>
+               <img src='/images/pro13.gif' alt='Ragdoll Stunt Hero' style='max-width: 75%;'>
              </div>           
            </div>"
 collection: portfolio
