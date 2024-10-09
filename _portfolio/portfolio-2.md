@@ -1,28 +1,36 @@
 ---
-title: "Idle Power City"
+title: "Ninja Tower TD"
 excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px;'>
-             <div style='flex: 1; margin-right: 20px;'>
-               <img src='/images/pro2.gif' alt='Idle Power City' style='max-width: 100%;'>
+             <div style='flex: 1; margin-left: 20px;'>
+               <img src='/images/pro11.gif' alt='Super Ninja TD' style='max-width: 100%;'>
              </div>
              <div style='flex: 1;'>
                <h2 style='font-size: 14px; margin: 5px 0;'>Description</h2>
-               <p style='margin: 5px 0;'>In 'Idle Power City' you hold the keys to a vibrant and electrifying metropolis! Harness the forces of nature with solar panels, wind turbines, water turbines, and even delve into the world of fossil fuels with oil mines. Your goal? To power up an ever-growing array of buildings and businesses. Build your city, one energy cell at a time. Watch as lights flicker to life, machines hum with energy, and your city comes alive with each power-up. </p>
+               <p style='margin: 5px 0;'>Super Ninja TD is an action-packed Tower Defense game where you battle mythical enemies using powerful weapons like katanas, fireballs, shurikens, and more. Upgrade your arsenal by collecting coins and tokens. Face epic boss fights, choose your upgrades, and fight on in this thrilling adventure!</p>
 
                <h2 style='font-size: 14px; margin: 5px 0;'>Contribution</h2>
                <ul>
-                 <li style='margin: 2px 0;'>Improved visual effects to enhance game feel</li>
-                 <li style='margin: 2px 0;'>Worked on level and economy design to balance difficulty and progression</li>
-                 <li style='margin: 2px 0;'>Implemented a <b>event-based quest system</b> to encourage regular player interaction and <b>improved playtime by 15%</b></li>
-                 <li style='margin: 2px 0;'>Developed game reward features to enhance the sense of achievement and progression</li>
-                 <li style='margin: 2px 0;'>Worked on analytics and SDK implementation to better track data and get measureable mertics</li>
-                 
+                 <li style='margin: 2px 0;'>Developed the core gameplay loop and leveraged <b>object pooling</b> to optimize spawn systems (projectiles, enemies etc).</li>
+                 <li style='margin: 2px 0;'>Contributed in sound and performant <b>particle systems</b> to significantly improve game feel</li>
+                 <li style='margin: 2px 0;'>Designed and developed a robust data system using <b>scriptable objects</b></li>
+                 <li style='margin: 2px 0;'>Used <b>stencil shader</b> to implement hole gameplay</b></li>
                </ul>
 
                <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>
-               <a href='https://play.google.com/store/apps/details?id=com.bigbang.idlepowercity'>Download</a>
-             </div>
-             
+               <a href='https://play.google.com/store/apps/details?id=com.minigamelab.superninjatd'>Download</a>
+             </div>   
            </div>"
 collection: portfolio
 ---
 
+Contribution
+-----
+Gameplay & visual development, narrative design
+
+Technical tags
+-----
+Choice-based, Narrative
+
+Link
+-----
+[Download](https://play.google.com/store/apps/details?id=com.kolpoverse.poolrules)
