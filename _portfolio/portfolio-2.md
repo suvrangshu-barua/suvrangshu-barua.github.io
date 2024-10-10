@@ -22,15 +22,3 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
            </div>"
 collection: portfolio
 ---
-
-Contribution
------
-Gameplay & visual development, narrative design
-
-Technical tags
------
-Choice-based, Narrative
-
-Link
------
-[Download](https://play.google.com/store/apps/details?id=com.kolpoverse.poolrules)
