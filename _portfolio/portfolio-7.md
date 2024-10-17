@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Bouncy Invaders"
 excerpt: "<img src='/images/pro6.gif'>"
 collection: portfolio
@@ -10,5 +10,5 @@ Prototype development in short period, shader development
 
 Technical tags
 -----
-Stencil Shader, Physics
+Stencil Shader, Physics -->
 
