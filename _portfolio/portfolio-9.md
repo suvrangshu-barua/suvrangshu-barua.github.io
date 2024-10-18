@@ -9,10 +9,8 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                <ul>
                  <li style='margin: 2px 0;'>Developed more than 20 levels and a couple of customized ad videos for marketibility testing</li>
                  <li style='margin: 2px 0;'>Contributed in level design and made custom particles on demand</li>                 
-               </ul>             
-               <div style='flex: 1; margin-left: 20px;'>
-                <img src='/images/pro4.jpg' alt='Prank Master 3D' style='max-width: 100%;'>
-               </div>
+               </ul>
+
                <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>  
                 <a href='https://play.google.com/store/apps/details?id=com.alphapotato.prankster'>  
                     <img src='/images/playstore.png' alt='Google Play Store' style='height: 25px; margin-right: 10px;'>  
@@ -20,6 +18,9 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                 <a href='https://apps.apple.com/us/app/prank-master-3d/id1528127833'>  
                     <img src='/images/appstore.png' alt='App Store' style='height: 25px;'>  
                 </a>
+               <div style='flex: 1; margin-left: 20px;'>
+                <img src='/images/pro4.jpg' alt='Prank Master 3D' style='max-width: 100%;'>
+               </div>
              </div>"
 collection: portfolio
 ---
