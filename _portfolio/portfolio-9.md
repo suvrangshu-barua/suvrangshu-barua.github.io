@@ -18,6 +18,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                 <a href='https://apps.apple.com/us/app/prank-master-3d/id1528127833'>  
                     <img src='/images/appstore.png' alt='App Store' style='height: 25px;'>  
                 </a>
+                </div>
                <div style='flex: 1; margin-left: 20px;'>
                 <img src='/images/pro4.jpg' alt='Prank Master 3D' style='max-width: 100%;'>
                </div>
