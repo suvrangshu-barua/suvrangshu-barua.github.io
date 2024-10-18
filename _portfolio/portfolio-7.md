@@ -15,7 +15,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                </ul>
                <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>  
                 <a href='https://play.google.com/store/apps/details?id=com.alphapotato.pawnshopmaster'>  
-                    <img src='/images/playstore.png' alt='Google Play Store' style='height: 25px;'>  
+                    <img src='/images/playstore.png' alt='Google Play Store' style='height: 25px; margin-right: 10px;'>  
                 </a>  
                 <a href='https://apps.apple.com/us/app/pawn-shop-master/id1511472595'>  
                     <img src='/images/appstore.png' alt='App Store' style='height: 25px;'>  
