@@ -17,7 +17,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                 <a href='https://apps.apple.com/us/app/pawn-shop-master/id1511472595'>  
                     <img src='/images/appstore.png' alt='App Store' style='height: 25px;'>  
                 </a>
-                <div style='flex: 1; margin-right: 20px;'>
+                <div style='flex: 1; margin-left: 20px;'>
                     <img src='/images/pro20.gif' alt='Pawnshop Master' style='max-width: 100%;'>
                 </div>          
              </div>"
