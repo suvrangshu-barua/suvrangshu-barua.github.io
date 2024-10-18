@@ -1,5 +1,5 @@
 ---
-title: "Prank Master 3D"
+title: "Pawn Shop Master"
 excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px;'>
              <div style='flex: 1;'>
                <h2 style='font-size: 14px; margin: 5px 0;'>Description</h2>
