@@ -11,7 +11,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                <h2 style='font-size: 14px; margin: 5px 0;'>Contribution</h2>
                <ul>
                  <li style='margin: 2px 0;'>Developed more than 20 levels and a couple of customized ad videos for marketibility testing</li>
-                 <li style='margin: 2px 0;'>Contributed in level designa and made custom particles on demand</li>                 
+                 <li style='margin: 2px 0;'>Contributed in level design and made custom particles on demand</li>                 
                </ul>
 
                <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>
