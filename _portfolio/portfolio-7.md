@@ -10,16 +10,16 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                  <li style='margin: 2px 0;'>Contributed in economy design and balancing</li>
                  <li style='margin: 2px 0;'>Playtested and reported major issues before shipping for production</li>                 
                </ul>
-             <div style='flex: 1; margin-right: 20px;'>
-               <img src='/images/pro20.gif' alt='Pawnshop Master' style='max-width: 100%;'>
-             </div>
-           <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>  
-           <a href='https://play.google.com/store/apps/details?id=com.alphapotato.pawnshopmaster'>  
-             <img src='/images/playstore.png' alt='Google Play Store' style='height: 25px;'>  
-           </a>  
-           <a href='https://apps.apple.com/us/app/pawn-shop-master/id1511472595'>  
-             <img src='/images/appstore.png' alt='App Store' style='height: 25px;'>  
-           </a>
+               <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>  
+                <a href='https://play.google.com/store/apps/details?id=com.alphapotato.pawnshopmaster'>  
+                    <img src='/images/playstore.png' alt='Google Play Store' style='height: 25px;'>  
+                </a>  
+                <a href='https://apps.apple.com/us/app/pawn-shop-master/id1511472595'>  
+                    <img src='/images/appstore.png' alt='App Store' style='height: 25px;'>  
+                </a>
+                <div style='flex: 1; margin-right: 20px;'>
+                    <img src='/images/pro20.gif' alt='Pawnshop Master' style='max-width: 100%;'>
+                </div>          
              </div>"
 collection: portfolio
 ---
