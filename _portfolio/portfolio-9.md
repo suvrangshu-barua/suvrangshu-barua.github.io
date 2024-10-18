@@ -6,7 +6,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
              </div>
              <div style='flex: 1;'>
                <h2 style='font-size: 14px; margin: 5px 0;'>Description</h2>
-               <p style='margin: 5px 0;'><b>Prank Master 3D</b> is a lighthearted simulation game where players set up creative and hilarious pranks on unsuspecting characters. Each level offers unique challenges that require to choose the right option to pull off the perfect prank. With its vibrant art style and engaging gameplay, the game has captivated mobile gamers worldwide. Since its release, <b>Prank Master 3D</b> has achieved over <b>70 million downloads</b> across iOS and Android, becoming a top-charting title in <b>2020</b>.</p>
+               <p style='margin: 5px 0;'><b>Prank Master 3D</b> is a lighthearted simulation game where players set up creative and hilarious pranks on unsuspecting characters. Each level offers unique challenges that require to choose the right option to pull off the perfect prank. With its vibrant art style and engaging gameplay, the game has captivated mobile gamers worldwide. Since its release, <b>Prank Master 3D</b> has achieved over <b>70 million downloads</b> across iOS and Android, becoming a top-charting title in <b>2020</b>. Click on the game title for more info.</p>
 
                <h2 style='font-size: 14px; margin: 5px 0;'>Contribution</h2>
                <ul>
