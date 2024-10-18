@@ -11,11 +11,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                <h2 style='font-size: 14px; margin: 5px 0;'>Contribution</h2>
                <ul>
                  <li style='margin: 2px 0;'>Developed more than 20 levels and a couple of customized ad videos for marketibility testing</li>
-                 <li style='margin: 2px 0;'>Contributed in level designa and made custom particles on demand</li>
-                 <li style='margin: 2px 0;'>Implemented a <b>event-based quest system</b> to encourage regular player interaction and <b>improved playtime by 15%</b></li>
-                 <li style='margin: 2px 0;'>Developed game reward features to enhance the sense of achievement and progression</li>
-                 <li style='margin: 2px 0;'>Worked on <b>analytics and SDK implementation</b> to better track data and get measureable mertics</li>
-                 
+                 <li style='margin: 2px 0;'>Contributed in level designa and made custom particles on demand</li>                 
                </ul>
 
                <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>
