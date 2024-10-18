@@ -1,6 +1,9 @@
 ---
 title: "Pawn Shop Master"
 excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px;'>
+             <div style='flex: 1; margin-left: 20px;'>
+                <img src='/images/pro20.gif' alt='Pawnshop Master' style='max-width: 100%;'>
+             </div>  
              <div style='flex: 1;'>
                <h2 style='font-size: 14px; margin: 5px 0;'>Description</h2>
                <p style='margin: 5px 0;'><b>Pawn Shop Master</b> is a simulation game where you play as a pawnshop owner and try to spot hidden gems from customers. People are lining up to make a better deal. Do bargaining to get the price as low as possible before you buy it off them. Be careful about fakes before you make a deal! Since its release, <b>Pawn Shop Master</b> has achieved over <b>40 million downloads</b> across iOS and Android. Click on the game title for more info.</p>
@@ -12,14 +15,11 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                </ul>
                <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>  
                 <a href='https://play.google.com/store/apps/details?id=com.alphapotato.pawnshopmaster'>  
-                    <img src='/images/playstore.png' alt='Google Play Store' style='width: 25px;'>  
+                    <img src='/images/playstore.png' alt='Google Play Store' style='height: 25px;'>  
                 </a>  
                 <a href='https://apps.apple.com/us/app/pawn-shop-master/id1511472595'>  
-                    <img src='/images/appstore.png' alt='App Store' style='width: 25px;'>  
-                </a>
-                <div style='flex: 1; margin-left: 20px;'>
-                    <img src='/images/pro20.gif' alt='Pawnshop Master' style='max-width: 100%;'>
-                </div>          
+                    <img src='/images/appstore.png' alt='App Store' style='height: 25px;'>  
+                </a>        
              </div>"
 collection: portfolio
 ---
