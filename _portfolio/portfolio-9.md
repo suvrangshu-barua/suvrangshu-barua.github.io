@@ -1,7 +1,6 @@
 ---
 title: "Prank Master 3D"
-excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px;'>
-             
+excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px;'>         
              <div style='flex: 1;'>
                <h2 style='font-size: 14px; margin: 5px 0;'>Description</h2>
                <p style='margin: 5px 0;'><b>Prank Master 3D</b> is a lighthearted simulation game where players set up creative and hilarious pranks on unsuspecting characters. Each level offers unique challenges that require to choose the right option to pull off the perfect prank. With its vibrant art style and engaging gameplay, the game has captivated mobile gamers worldwide. Since its release, <b>Prank Master 3D</b> has achieved over <b>70 million downloads</b> across iOS and Android, becoming a top-charting title in <b>2020</b>. Click on the game title for more info.</p>
@@ -14,6 +13,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
 
                <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>
                <a href='https://play.google.com/store/apps/details?id=com.alphapotato.prankster'>Download</a>
+               </div>
                <div style='flex: 1; margin-left: 20px;'>
                 <img src='/images/pro4.jpg' alt='Prank Master 3D' style='max-width: 100%;'>
                </div>
