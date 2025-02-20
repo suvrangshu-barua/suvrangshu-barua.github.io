@@ -7,7 +7,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
 
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Libraries</h2>
                <ul style='list-style-type: none; padding-left: 0;'>
-                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> Implemented <b>spatial partioning</b> technique to optimize <b>mesh deformation</b> in real-time, resulting in a <b>performance boost from 30 fps to 60 fps on low-end devices</li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> Implemented <b>spatial partioning</b> technique to optimize <b>mesh deformation</b> in real-time, resulting in a <b>performance boost from 30 fps to 60 fps on low-end devices</b></li>
                  <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> Developed the core game loop, an intuitive tutorial system, and responsive animated feedbacks, improving player engagement and overall game feel</li>
                  <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> Developed a robust <b>save system</b> to manage complex data, such as digging progression and inventory, making sure players do not lose game progress</li>
                </ul>
