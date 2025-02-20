@@ -21,8 +21,8 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                  </a>
                </div>
              </div>
-             <div style='flex: 1; margin-left: 20px; display: flex; align-items: center; justify-content: center; overflow: hidden;'>
-               <img src='/images/pro4.jpg' alt='Prank Master 3D' style='width: 100%; height: auto; max-height: 300px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease; object-fit: cover;'>
+             <div style='flex: 1; margin-left: 20px;'>
+               <img src='/images/pro4.jpg' alt='Prank Master 3D' style='max-width: 100%; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;'>
              </div>
            </div>"
 collection: portfolio
