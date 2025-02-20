@@ -1,24 +1,23 @@
 ---
-title: "Fight For World"
+title: "Idle Pawnshop"
 excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px;'>
              <div style='flex: 1;'>
                <h2 style='font-size: 14px; margin: 5px 0;'>Description</h2>
-               <p style='margin: 5px 0;'>Fight For World is a post-apocalyptic action game where players take on the role of a sci-fi soldier fighting through toxic environments filled with radioactive creatures. Players engage in intense combat using various weapons, strategically deploy turrets for defense, and upgrade their soldier’s stats and equipment with collected coins and radiation tokens. The game features challenging boss battles and a unique area liberation mechanic, where players cleanse radiation zones by defeating enemies and destroying their nests. The gameplay blends fast-paced action with strategic decision-making to deliver an immersive and engaging experience.</p>
+               <p style='margin: 5px 0;'>Idle Pawnshop is a hybrid casual game where players take on the role of a pawnshop owner, digging for historical artifacts and lost parts of objects to sell or display in their shop. The game features several digging locations and a rarity system for artifacts, allowing players to collect and reconstruct historical figures to enhance their shop's reputation. As players attract more customers and generate income, they can expand their pawnshop into a museum, showcasing their collection.</p>
 
                <h2 style='font-size: 14px; margin: 5px 0;'>Contribution</h2>
                <ul>
-                 <li style='margin: 2px 0;'>Developed the optimized shooting mechanics, dynamic hoard spawning system using <b>object pooling</b> technique to deliver engaging experience</li>
-                 <li style='margin: 2px 0;'>Contributed in the <b>VFX (shaders and particle systems)</b> and sounds to significantly improve game feel</li>
-                 <li style='margin: 2px 0;'>Designed and developed a robust save system to manage stats</li>
+                 <li style='margin: 2px 0;'>Implemented a <b>Spatial Partioning</b> based approach to optimize <b>mesh deformation</b> in real-time, resulting in a <b>performance boost from 30 fps to 60 fps on low-end devices</b></li>
+                 <li style='margin: 2px 0;'>Developed the core game loop, an intuitive tutorial system, and responsive animated feedbacks, improving player engagement and overall game feel</li>
+                 <li style='margin: 2px 0;'>Developed a robust <b>save system</b> to manage complex data, such as digging progression and inventory, making sure players do not lose game progress</li>
                </ul>
 
                <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>
-               <a href='https://play.google.com/store/apps/details?id=com.bigbang.fightforworld'>Download</a>
+               <a href='https://play.google.com/store/apps/details?id=com.kolpoverse.idlepawnshop'>Download</a>
              </div>
              <div style='flex: 1; margin-left: 20px;'>
-               <img src='/images/pro14.gif' alt='Fight For World' style='max-width: 100%;'>
+               <img src='/images/pro1.gif' alt='Idle Pawnshop' style='max-width: 100%;'>
              </div>
            </div>"
 collection: portfolio
 ---
-
