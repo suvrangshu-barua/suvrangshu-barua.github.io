@@ -8,7 +8,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Libraries</h2>
                <ul style='list-style-type: none; padding-left: 0;'>
                  <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> Developed the optimized shooting mechanics, dynamic hoard spawning system using <b>object pooling</b> technique to deliver engaging experience</li>
-                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> Implemented <b>AI</b> behavior and <b>path finding</li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> Implemented <b>AI</b> behavior and <b>path finding</b> algorithm.</li>
                  <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> Designed and developed a robust save system to manage stats</li>
                </ul>
 
