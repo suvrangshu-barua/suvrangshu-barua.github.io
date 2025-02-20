@@ -2,20 +2,21 @@
 title: "Pathtracer"
 excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px;'>
              <div style='flex: 1;'>
-               <h2 style='font-size: 14px; margin: 5px 0;'>Description</h2>
-               <p style='margin: 5px 0;'>A pathtracer capable of rendering photorealistic images, developed for Computer Graphics couse at Chalmers.</p>
+               <h2 style='font-size: 16px; margin: 5px 0; font-weight: bold; color: #2c3e50;'>Description</h2>
+               <p style='margin: 5px 0; line-height: 1.5; color: #34495e;'>A pathtracer capable of rendering photorealistic images, developed for the Computer Graphics course at Chalmers. This project showcases advanced rendering techniques, including global illumination, material modeling, and importance sampling.</p>
 
-              <h2 style='font-size: 14px; margin: 5px 0;'>Libraries</h2>
-               <ul>
-                 <li style='margin: 2px 0;'>OpenGL graphics API</li>
-                 <li style='margin: 2px 0;'>SDL2</li>
-                 <li style='margin: 2px 0;'>CMake</li>
+               <h2 style='font-size: 16px; margin: 5px 0; font-weight: bold; color: #2c3e50;'>Libraries</h2>
+               <ul style='list-style-type: none; padding-left: 0;'>
+                 <li style='margin: 2px 0; color: #34495e;'><span style='color: #e74c3c;'>•</span> OpenGL graphics API</li>
+                 <li style='margin: 2px 0; color: #34495e;'><span style='color: #e74c3c;'>•</span> SDL2</li>
+                 <li style='margin: 2px 0; color: #34495e;'><span style='color: #e74c3c;'>•</span> CMake</li>
                </ul>
-               <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>
-               <a href='https://github.com/SuvrangshuBarua/Computer-Graphics-Project'>Github Link</a>
+
+               <h2 style='font-size: 16px; margin: 5px 0; font-weight: bold; color: #2c3e50;'>Link</h2>
+               <a href='https://github.com/SuvrangshuBarua/Computer-Graphics-Project' style='text-decoration: none; color: #3498db; font-weight: bold;'>Github Link</a>
              </div>
              <div style='flex: 1; margin-left: 20px;'>
-               <img src='/images/pathtracer-1.png' alt='Pathtracer' style='max-width: 100%;'>
+               <img src='/images/pathtracer-1.png' alt='Pathtracer' style='max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);'>
              </div>
            </div>"
 collection: project
@@ -23,7 +24,7 @@ collection: project
 ### **Project: Path Tracer Implementation**
 
 #### **Overview**
-I developed a **path tracer** from scratch as part of a computer graphics course, following a tutorial from Chalmers University of Technology. This physically-based rendering engine simulates light behavior in 3D scenes to generate realistic images, demonstrating my understanding of ray tracing, material modeling, and advanced rendering techniques.
+A **path tracer** developed from scratch as part of computer graphics course at Chalmers University of Technology. This physically-based rendering engine simulates light behavior in 3D scenes to generate realistic images, demonstrating my understanding of ray tracing, material modeling, and advanced rendering techniques.
 
 #### **Key Features**
 - **Ray Tracing Core**: Implemented ray generation, intersection testing, and recursive shading for global illumination.
