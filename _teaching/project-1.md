@@ -18,6 +18,6 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                <img src='/images/pathtracer-1.png' alt='Pathtracer' style='max-width: 100%;'>
              </div>
            </div>"
-collection: portfolio
+collection: teaching
 ---
 
