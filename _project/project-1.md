@@ -1,22 +1,22 @@
 ---
 title: "Pathtracer"
-excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px;'>
-             <div style='flex: 1;'>
-               <h2 style='font-size: 16px; margin: 5px 0; font-weight: bold; color: #2c3e50;'>Description</h2>
-               <p style='margin: 5px 0; line-height: 1.5; color: #34495e;'>A pathtracer capable of rendering photorealistic images, developed for the Computer Graphics course at Chalmers. This project showcases advanced rendering techniques, including global illumination, material modeling, and importance sampling.</p>
+excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px; background: linear-gradient(135deg, #f5f7fa, #c3cfe2); padding: 20px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);'>
+             <div style='flex: 1; padding-right: 20px;'>
+               <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Description</h2>
+               <p style='margin: 10px 0; line-height: 1.6; color: #34495e; font-size: 14px;'>A pathtracer capable of rendering photorealistic images, developed for the Computer Graphics course at Chalmers. This project showcases advanced rendering techniques, including global illumination, material modeling, and importance sampling.</p>
 
-               <h2 style='font-size: 16px; margin: 5px 0; font-weight: bold; color: #2c3e50;'>Libraries</h2>
+               <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Libraries</h2>
                <ul style='list-style-type: none; padding-left: 0;'>
-                 <li style='margin: 2px 0; color: #34495e;'><span style='color: #e74c3c;'>•</span> OpenGL graphics API</li>
-                 <li style='margin: 2px 0; color: #34495e;'><span style='color: #e74c3c;'>•</span> SDL2</li>
-                 <li style='margin: 2px 0; color: #34495e;'><span style='color: #e74c3c;'>•</span> CMake</li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> OpenGL graphics API</li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> SDL2</li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> CMake</li>
                </ul>
 
-               <h2 style='font-size: 16px; margin: 5px 0; font-weight: bold; color: #2c3e50;'>Link</h2>
-               <a href='https://github.com/SuvrangshuBarua/Computer-Graphics-Project' style='text-decoration: none; color: #3498db; font-weight: bold;'>Github Link</a>
+               <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Link</h2>
+               <a href='https://github.com/SuvrangshuBarua/Computer-Graphics-Project' style='text-decoration: none; color: #3498db; font-weight: bold; font-size: 14px; padding: 8px 16px; background: #ecf0f1; border-radius: 6px; display: inline-block; transition: background 0.3s ease;'>View on GitHub</a>
              </div>
              <div style='flex: 1; margin-left: 20px;'>
-               <img src='/images/pathtracer-1.png' alt='Pathtracer' style='max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);'>
+               <img src='/images/pathtracer-1.png' alt='Pathtracer' style='max-width: 100%; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;'>
              </div>
            </div>"
 collection: project
