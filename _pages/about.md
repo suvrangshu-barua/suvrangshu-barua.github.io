@@ -22,7 +22,7 @@ redirect_from:
   * Collaborating with cross-functional teams to design, develop, and implement game mechanics, levels and economy
   * Ensuring high-quality standards and performance optimization for all projects
   * Mentoring junior developers and creating a collaborative and innovative team environment
-* Game Developer at Kolpoverse Studios, Dec 2022 - Present
+* Game Developer at Kolpoverse Studios, Dec 2022 - Nov 2023
   * Developed user-friendly automation tools in Unity to speed up development processes and support designers
   * Created prototypes for hybrid and hypercasual games to experiment with creative gameplay ideas
   * Produced visually pleasing shaders using Shader Graph, compute shader, and HLSL for enhancing gameplay aesthetic
