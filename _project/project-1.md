@@ -9,7 +9,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                <ul>
                  <li style='margin: 2px 0;'>OpenGL graphics API</li>
                  <li style='margin: 2px 0;'>SDL2</li>
-                 <li style='margin: 2px 0;'>CMake<b>scriptable objects</b></li>
+                 <li style='margin: 2px 0;'>CMake</li>
                </ul>
                <h2 style='font-size: 14px; margin: 5px 0;'>Link</h2>
                <a href='https://github.com/SuvrangshuBarua/Computer-Graphics-Project'>Github Link</a>
