@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🎮 Working as a Senior Game Developer at Big Bang Studio Ltd
+🎮 Working as a Teaching Assistant at Chalmers tekniska högskola
 
 🎲 I love to fiddle around with shaders & automation tools development 
 
