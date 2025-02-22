@@ -2,7 +2,7 @@
 title: "Crystal Gem Slot Game"
 excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px; background: linear-gradient(135deg, #f5f7fa, #c3cfe2); padding: 20px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);'>
              <div style='flex: 1; margin-left: 20px;'>
-               <img src='/images/slot.gif' alt='Crystal Gem Slot Game' style='max-width: 100%; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;'>
+               <img src='/images/slot.gif' alt='Crystal Gem Slot Game' style='max-width: 50%; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;'>
              </div>
              <div style='flex: 1; padding-right: 20px;'>
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Description</h2>
