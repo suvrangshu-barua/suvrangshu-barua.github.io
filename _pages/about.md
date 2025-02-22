@@ -12,7 +12,7 @@ redirect_from:
 
 🎲 I love to fiddle around with shaders & automation tools development 
 
-🎯 Currently working on my physical wellbeing 💪 & daily habits 📋
+🎯 Currently working on my physical wellbeing 💪 & forming daily habits 📋
 
 👨‍💻 Job Experience
 ------
