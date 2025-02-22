@@ -17,19 +17,19 @@ redirect_from:
 👨‍💻 Job Experience
 ------
 * Senior Game Developer at Big Bang Studio Ltd, Dec 2023 - Sept 2024
-  * Successfully developed four hybrid casual games (two of them passed soft launch), achieving an average D1 retention rate of over 27% and an average playtime exceeding 1900 seconds
-  * Leading and managing projects alongside a producer from concept to completion
-  * Collaborating with cross-functional teams to design, develop, and implement game mechanics, levels and economy
-  * Ensuring high-quality standards and performance optimization for all projects
+  * Successfully shipped four hybrid casual games (two of them passed soft launch), achieving an average D1 retention rate of over 35%, CPI <$1 on average and an average playtime exceeding 2500 seconds
+  * Led a team of 3 developers, reducing prototype delivery timelines by 20% by Agile workflow and sprint management
+  * Developed playable ads with 15% higher CTR than industry benchmarks, boosting ROI by 30%
+  * Prototyped HTML5 games (slot) using Pixi Js to test marketability
   * Mentoring junior developers and creating a collaborative and innovative team environment
 * Game Developer at Kolpoverse Studios, Dec 2022 - Nov 2023
-  * Developed user-friendly automation tools in Unity to speed up development processes and support designers
-  * Created prototypes for hybrid and hypercasual games to experiment with creative gameplay ideas
-  * Produced visually pleasing shaders using Shader Graph, compute shader, and HLSL for enhancing gameplay aesthetic
+  * Built a Unity template, cutting repetitive tasks by 50%, saving 30+ hrs/month and accelerating prototyping by 40%
+  * Executed R&D tasks using spatial partitioning in mesh deformation, A* pathfinding in AI system and ml-agents to use Machine Learning models in games
+  * Produced visually pleasing effects per requirement using Shader Graph, compute shading to enhance gameplay aesthetic
 * Junior Game Programmer at Alpha Potato LLC, Jan 2020 - Nov 2022
   * Contributed as a Gameplay Programmer for two top chart hits ([Prank Master 3D](https://apps.apple.com/us/app/prank-master-3d/id1528127833), [Pawn Shop Master](https://apps.apple.com/us/app/pawn-shop-master/id1511472595)) including level design and economy design
   * Collaborated closely with project management on level design, game conceptualization, and playtesting, ensuring an engaging and feel-good game experience
-  * Rapidly prototyped 20+ hyper-casual and ultra-casual game concepts for market research, accelerating the identification of marketable mechanics and features
+  * Rapidly prototyped 25+ hypercasual concepts, two adopting into soft launch, achieving 750k+ total downloads
 
 <!--
 Getting started
