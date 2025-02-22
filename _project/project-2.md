@@ -17,7 +17,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                </ul>
 
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>GitHub Link</h2>
-               <a href='https://github.com/your-username/crystal-gem-slot-game' style='text-decoration: none; color: #3498db; font-weight: bold; font-size: 14px; padding: 8px 16px; background: #ecf0f1; border-radius: 6px; display: inline-block; transition: background 0.3s ease;'>View on GitHub</a>
+               <a href='https://github.com/SuvrangshuBarua/Crystal-Gem-Slot-Game' style='text-decoration: none; color: #3498db; font-weight: bold; font-size: 14px; padding: 8px 16px; background: #ecf0f1; border-radius: 6px; display: inline-block; transition: background 0.3s ease;'>View on GitHub</a>
              </div>   
            </div>"
 collection: portfolio
