@@ -22,7 +22,6 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
            </div>"
 collection: portfolio
 ---
-# Crystal Gem Slot Game
 
 ![Crystal Gem Slot Game Screenshot](/images/slot.gif) <!-- Add a screenshot if available -->
 
