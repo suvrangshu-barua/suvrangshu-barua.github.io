@@ -6,7 +6,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
              </div>
              <div style='flex: 1; padding-right: 20px;'>
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Description</h2>
-               <p style='margin: 10px 0; line-height: 1.6; color: #34495e; font-size: 14px;'>Crystal Gem Slot Game is a modern slot machine game built with Pixi.js. It features smooth reel spin animations, dynamic paylines (coming soon), and a visually appealing design inspired by popular slot games like Starburst. Spin the reels, visualize paylines (soon), and enjoy the thrill of winning!</p>
+               <p style='margin: 10px 0; line-height: 1.6; color: #34495e; font-size: 14px;'>Crystal Gem Slot Game is a modern slot machine game built with Pixi.js. It features smooth reel spin animations, dynamic paylines (coming soon), and a visually appealing design inspired by popular slot games like Starburst. Spin the reels, visualize paylines (coming soon), and enjoy the thrill of winning!</p>
 
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Technologies Used</h2>
                <ul style='list-style-type: none; padding-left: 0;'>
