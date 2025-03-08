@@ -33,7 +33,6 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
            </div>"
 collection: project
 ---
-# Grim Tools: Event-Based Game Framework
 
 ## Overview
 **Grim Tools** is an event-based game framework designed to streamline game development workflows by leveraging the power of Scriptable Objects. This framework provides a solid foundation for building efficient and customizable games using a modular, event-driven architecture, prioritizing ease of use to enhance development efficiency.
