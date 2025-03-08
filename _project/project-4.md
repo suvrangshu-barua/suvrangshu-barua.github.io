@@ -27,9 +27,6 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                  <li style='margin: 8px 0; color: #34495e; font-size: 14px;'>• Level Data Handling</li>
                </ul>
 
-               <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase;'>License</h2>
-               <p style='margin: 10px 0; line-height: 1.6; color: #34495e; font-size: 14px;'>This project is licensed under the MIT License. For more details, refer to the <a href='https://github.com/SuvrangshuBarua/Grim-Tools/blob/main/LICENSE' style='color: #3498db; font-weight: bold;'>LICENSE</a> file in the repository.</p>
-
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase;'>Repository</h2>
                <a href='https://github.com/SuvrangshuBarua/Grim-Tools' style='text-decoration: none; color: #3498db; font-weight: bold; font-size: 14px; padding: 8px 16px; background: #ecf0f1; border-radius: 6px; display: inline-block; transition: background 0.3s ease;'>View on GitHub</a>
              </div>
@@ -67,4 +64,12 @@ For more information, visit the [Grim Tools GitHub repository](https://github.co
 
 You can watch a demonstration of the framework below:
 
-<iframe width="560" height="315" src="https://youtu.be/D7S5UPVOy90" frameborder="0" allowfullscreen></iframe>
+<iframe 
+  width="560" 
+  height="315" 
+  src="https://youtu.be/D7S5UPVOy90?si=8YU_TWeKYF1M4CAC" 
+  title="YouTube video player" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+  allowfullscreen>
+</iframe>
