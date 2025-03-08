@@ -67,4 +67,4 @@ For more information, visit the [Grim Tools GitHub repository](https://github.co
 
 You can watch a demonstration of the framework below:
 
-[![Watch the video](https://youtu.be/D7S5UPVOy90)](https://youtu.be/D7S5UPVOy90)
+<iframe width="560" height="315" src="https://youtu.be/D7S5UPVOy90" frameborder="0" allowfullscreen></iframe>
