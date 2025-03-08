@@ -10,11 +10,10 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
 
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Key Features</h2>
                <ul style='list-style-type: none; padding-left: 0;'>
-                 <li style='margin: 8px 0; color: #863ce7; font-size: 14px;'>• Event-Driven Architecture</li>
-                 <li style='margin: 8px 0; color: #863ce7; font-size: 14px;'>• Modular Design</li>
-                 <li style='margin: 8px 0; color: #863ce7; font-size: 14px;'>• Scriptable Object Integration</li>
-                 <li style='margin: 8px 0; color: #863ce7; font-size: 14px;'>• Persistent Data Wrapper</li>
-                 <li style='margin: 8px 0; color: #863ce7; font-size: 14px;'>• Level Data Handling</li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Event-Driven Architecture</b>: Facilitating modularity and scalability.</li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Scriptable Objects</b>: For better presets and data handling.</li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>PersistantData</b>: A wrapper for persistant data</li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Editor Scripting</b>: Tag and Layer highlighting, custom header and many more</li>
                </ul>
 
                <h3 style='font-size: 16px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase;'>Scene Utility</h3>
