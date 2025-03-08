@@ -6,7 +6,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
              </div>
              <div style='flex: 1; padding-right: 20px;'>
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Overview</h2>
-               <p style='margin: 10px 0; line-height: 1.6; color: #34495e; font-size: 14px;'>Grim Tools is an event-based game framework designed to streamline game development workflows by leveraging the power of Scriptable Objects. This framework provides a solid foundation for building efficient and customizable games using a modular, event-driven architecture, prioritizing ease of use to enhance development efficiency.</p>
+               <p style='margin: 10px 0; line-height: 1.6; color: #34495e; font-size: 14px;'>Grim Tools is an event-based game framework for <b>Unity</b> designed to streamline game development workflows by leveraging the power of Scriptable Objects. This framework provides a solid foundation for building efficient and customizable games using a modular, event-driven architecture, prioritizing ease of use to enhance development efficiency.</p>
 
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Key Features</h2>
                <ul style='list-style-type: none; padding-left: 0;'>
