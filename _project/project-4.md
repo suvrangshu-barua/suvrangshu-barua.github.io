@@ -63,12 +63,4 @@ For more information, visit the [Grim Tools GitHub repository](https://github.co
 
 You can watch a demonstration of the framework below:
 
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://youtu.be/D7S5UPVOy90?si=8YU_TWeKYF1M4CAC" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D7S5UPVOy90?si=ftftRgB7cwY9vOFq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
