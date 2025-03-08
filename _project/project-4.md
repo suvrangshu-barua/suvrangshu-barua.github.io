@@ -10,16 +10,16 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
 
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Key Features</h2>
                <ul style='list-style-type: none; padding-left: 0;'>
-                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'>• Event-Driven Architecture</li>
-                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'>• Modular Design</li>
-                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'>• Scriptable Object Integration</li>
-                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'>• Persistent Data Wrapper</li>
-                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'>• Level Data Handling</li>
+                 <li style='margin: 8px 0; color: #863ce7; font-size: 14px;'>• Event-Driven Architecture</li>
+                 <li style='margin: 8px 0; color: #863ce7; font-size: 14px;'>• Modular Design</li>
+                 <li style='margin: 8px 0; color: #863ce7; font-size: 14px;'>• Scriptable Object Integration</li>
+                 <li style='margin: 8px 0; color: #863ce7; font-size: 14px;'>• Persistent Data Wrapper</li>
+                 <li style='margin: 8px 0; color: #863ce7; font-size: 14px;'>• Level Data Handling</li>
                </ul>
 
                <h3 style='font-size: 16px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase;'>Scene Utility</h3>
                <ul style='list-style-type: none; padding-left: 0;'>
-                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'>• An editor tool developed by me that features multiple functionalities, including scene loading, unloading, quick switching, batch operations, and more.</li>
+                 <li style='margin: 8px 0; color: #863ce7; font-size: 14px;'>• An editor tool developed by me that features multiple functionalities, including scene loading, unloading, quick switching, batch operations, and more.</li>
                </ul>
 
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase;'>Repository</h2>
