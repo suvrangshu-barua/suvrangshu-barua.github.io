@@ -4,7 +4,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
                
              <div style='flex: 1; padding-right: 20px;'>  
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Description</h2>  
-               <p style='margin: 10px 0; line-height: 1.6; color: #34495e; font-size: 14px;'>A platformer level design tool that enables procedural generation with extensive user control. It allows users to define platform curvature using splines (Bezier or linear) and customize the spacing between platforms. The tool is being expanded with additional features, including procedural stair placement by calculating elevation, providing greater flexibility and precision in level design.</p>  
+               <p style='margin: 10px 0; line-height: 1.6; color: #34495e; font-size: 14px;'>A platformer level design tool that enables procedural generation with extensive user control. It allows users to define platform curvature using splines (Bezier or Linear) and customize the spacing between platforms. The tool is being expanded with additional features, including procedural stair placement by calculating elevation, providing greater flexibility and precision in level design.</p>  
 
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Technologies Used</h2>  
                <ul style='list-style-type: none; padding-left: 0;'>  
