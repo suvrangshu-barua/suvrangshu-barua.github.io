@@ -6,14 +6,14 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
              </div>
              <div style='flex: 1; padding-right: 20px;'>
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Overview</h2>
-               <p style='margin: 10px 0; line-height: 1.6; color: #34495e; font-size: 14px;'>Grim Tools is an event-based game framework for <b>Unity</b> designed to streamline game development workflows by leveraging the power of Scriptable Objects. This framework provides a solid foundation for building efficient and customizable games using a modular, event-driven architecture, prioritizing ease of use to enhance development efficiency.</p>
+               <p style='margin: 10px 0; line-height: 1.6; color: #34495e; font-size: 14px;'>Grim Tools is an event-based game framework designed for rapid game prototyping by leveraging the power of ScriptableObjects. It includes essential features that developers frequently need, such as object pooling, an economy manager that automatically converts large numbers (e.g., 5000 to 5K for better readability), an input manager supporting various controls like swipe, drag, and joystick, and much more.</p>
 
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Key Features</h2>
                <ul style='list-style-type: none; padding-left: 0;'>
-                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Event-Driven Architecture</b>: Facilitating modularity and scalability</li>
-                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Scriptable Objects</b>: For better presets and data handling</li>
-                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>PersistantData</b>: A wrapper for persistant data</li>
-                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Editor Scripting</b>: Tag and Layer highlighting, custom header etc</li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Event-Driven Game State Management</b>: A flexible system that manages game states efficiently using events and ScriptableObjects</li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Modular Scene Management</b>: Seamless scene transitions with a variety of animation effects.</li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>PersistantData</b>: A wrapper more powerful and flexible than PlayerPrefs</li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Editor Scripting</b>: Tag and Layer highlighting, custom headers etc</li>
                </ul>
 
                <h3 style='font-size: 16px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase;'>Scene Utility</h3>
