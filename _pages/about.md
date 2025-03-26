@@ -20,7 +20,6 @@ redirect_from:
   * Successfully shipped four hybrid casual games (two of them passed soft launch), achieving an average D1 retention rate of over 35%, CPI <$1 on average and an average playtime exceeding 2500 seconds
   * Led a team of 3 developers, reducing prototype delivery timelines by 20% by Agile workflow and sprint management
   * Developed playable ads with 15% higher CTR than industry benchmarks, boosting ROI by 30%
-  * Prototyped HTML5 games (slot) using Pixi Js to test marketability
   * Mentoring junior developers and creating a collaborative and innovative team environment
 * Game Developer at Kolpoverse Studios, Dec 2022 - Nov 2023
   * Built a Unity template, cutting repetitive tasks by 50%, saving 30+ hrs/month and accelerating prototyping by 40%
