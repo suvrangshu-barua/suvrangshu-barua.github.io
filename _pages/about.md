@@ -8,14 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-🎮 Working as a Teaching Assistant at Chalmers tekniska högskola
+🎮 Working as a Lead Programmer at [Beefhammer Games](https://beefhammergames.com/)
 
-🎲 I love to fiddle around with shaders & automation tools development 
+🎲 Always have my hands dirty with the latest tech - there's something magical about AI reshaping how we build, automate, and create. I'm that person who sees a problem and thinks "there's got to be a way to automate this."
 
-🎯 Currently working on my physical wellbeing 💪 & forming daily habits 📋
+🎯 Currently working on my physical and mental wellbeing 💪 & forming daily habits 📋
 
 👨‍💻 Job Experience
 ------
+* Lead Programmer at Beefhammer Games, May 2025 - Present
+  * Contributing as a programming lead to develop a souls-like game
+  * Creating designer-friendly custom tools on top of Game Creator 2.0 framework in Unity to facilitate development.
+* Teaching Assistant (Contract) at Chalmers University of Technology, Jan 2025 - Mar 2025
+  * Supervised student groups on Unity-based game development and guided students on OOP structure in C# and source control (Git) in their projects.
 * Senior Game Developer at Big Bang Studio Ltd, Dec 2023 - Sept 2024
   * Successfully shipped four hybrid casual games (two of them passed soft launch), achieving an average D1 retention rate of over 35%, CPI <$1 on average and an average playtime exceeding 2500 seconds
   * Led a team of 3 developers, reducing prototype delivery timelines by 20% by Agile workflow and sprint management
