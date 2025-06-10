@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-🎮 Working as a Lead Programmer at [Beefhammer Games](https://beefhammergames.com/)
+🎮 Master’s Student at the University of Gothenburg | Lead Programmer at [Beefhammer Games](https://beefhammergames.com/)
 
 🎲 Always have my hands dirty with the latest tech - there's something magical about AI reshaping how we build, automate, and create. I'm that person who sees a problem and thinks "there's got to be a way to automate this."
 
-🎯 Currently working on my physical and mental wellbeing 💪 & forming daily habits 📋
+🎯 Currently residing in Gotheburg, open to relocate anywhere in Sweden
 
 👨‍💻 Job Experience
 ------
