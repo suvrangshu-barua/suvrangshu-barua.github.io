@@ -12,27 +12,27 @@ redirect_from:
 
 🎲 Always have my hands dirty with the latest tech - there's something magical about AI reshaping how we build, automate, and create. I'm that person who sees a problem and thinks "there's got to be a way to automate this."
 
-🎯 Currently residing in Gothenburg, open to relocate anywhere in Sweden
+🎯 Currently residing in Gothenburg, **open to relocate anywhere in Sweden**
 
 👨‍💻 Job Experience
 ------
 * Lead Programmer at Beefhammer Games, May 2025 - Present
   * Contributing as a programming lead to develop a souls-like game
-  * Creating designer-friendly custom tools on top of Game Creator 2.0 framework in Unity to facilitate development.
+  * Creating designer-friendly **custom tools** on top of Game Creator 2.0 framework in Unity to facilitate development.
 * Teaching Assistant (Contract) at Chalmers University of Technology, Jan 2025 - Mar 2025
   * Supervised student groups on Unity-based game development and guided students on OOP structure in C# and source control (Git) in their projects.
 * Senior Game Developer at Big Bang Studio Ltd, Dec 2023 - Sept 2024
-  * Successfully shipped four hybrid casual games (two of them passed soft launch), achieving an average D1 retention rate of over 35%, CPI <$1 on average and an average playtime exceeding 2500 seconds
-  * Led a team of 3 developers, reducing prototype delivery timelines by 20% by Agile workflow and sprint management
-  * Developed playable ads with 15% higher CTR than industry benchmarks, boosting ROI by 30%
-  * Mentoring junior developers and creating a collaborative and innovative team environment
+  * Successfully shipped four **hybrid casual** games (two of them passed **soft launch**), achieving an average **D1 retention** rate of over 35%, **CPI <$1** on average and an average playtime exceeding 2500 seconds
+  * Led a team of 3 developers, reducing prototype delivery timelines by 20% by **Agile** workflow and sprint management
+  * Developed **playable ads** with 15% higher CTR than industry benchmarks, boosting ROI by 30%
+  * **Mentoring** junior developers and creating a collaborative and innovative team environment
 * Game Developer at Kolpoverse Studios, Dec 2022 - Nov 2023
-  * Built a Unity template, cutting repetitive tasks by 50%, saving 30+ hrs/month and accelerating prototyping by 40%
-  * Executed R&D tasks using spatial partitioning in mesh deformation, A* pathfinding in AI system and ml-agents to use Machine Learning models in games
-  * Produced visually pleasing effects per requirement using Shader Graph, compute shading to enhance gameplay aesthetic
+  * Built a prototype template, cutting repetitive tasks by 50%, saving 30+ hrs/month and accelerating prototyping by 40%
+  * Executed R&D tasks using **spatial partitioning** in mesh deformation, **A* pathfinding** in AI system and ml-agents to use Machine Learning models in games
+  * Produced visually pleasing effects per requirement using **Shader Graph**, wrote **compute shaders** to enhance gameplay aesthetic with efficiency
 * Junior Game Programmer at Alpha Potato LLC, Jan 2020 - Nov 2022
-  * Contributed as a Gameplay Programmer for two top chart hits ([Prank Master 3D](https://apps.apple.com/us/app/prank-master-3d/id1528127833), [Pawn Shop Master](https://apps.apple.com/us/app/pawn-shop-master/id1511472595)) including level design and economy design
-  * Collaborated closely with project management on level design, game conceptualization, and playtesting, ensuring an engaging and feel-good game experience
+  * Contributed as a Gameplay Programmer for two top chart hits ([Prank Master 3D](https://apps.apple.com/us/app/prank-master-3d/id1528127833), [Pawn Shop Master](https://apps.apple.com/us/app/pawn-shop-master/id1511472595)) including **level design** and **economy design**
+  * Implemented **A/B testing** for monetization features, increasing **IAP** operation by 18% and ad revenue by 27%.
   * Rapidly prototyped 25+ hypercasual concepts, two adopting into soft launch, achieving 750k+ total downloads
 
 <!--
