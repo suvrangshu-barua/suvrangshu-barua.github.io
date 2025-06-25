@@ -2,7 +2,7 @@
 title: "Vulkan Raytracer"
 excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px; background: linear-gradient(135deg, #f5f7fa, #c3cfe2); padding: 20px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);'>
               <div style='flex: 1; margin-left: 20px;'>
-               <img src='/images/raytracer_vk.png' alt='Vulkan Raytracer' style='max-width: 100%; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;'>
+               <img src='/images/raytracer_vk.png' alt='Vulkan Raytracer' style='max-width: 75%; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;'>
              </div>
              <div style='flex: 1; padding-right: 20px;'>
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Overview</h2>
@@ -10,7 +10,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
 
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Key Features</h2>
                <ul style='list-style-type: none; padding-left: 0;'>
-                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Ray Tracing via VK_KHR_ray_tracing_pipeline</b>: Efficient ray-triangle intersections using Vulkan's acceleration structures.</li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Use of Acceleration Structure</b>: Efficient ray-triangle intersections using Vulkan's acceleration structures.</li>
                  <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Temporal Anti-Aliasing</b>: Subpixel jitter with per-frame accumulation for smoother edges and better image quality.</li>
                  <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Any-Hit Shader</b>: Supports alpha cutout and conditional intersection handling, useful for simulating transparent surfaces.</li>
                  <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Recursive Path Tracing</b>: Path tracing implemented in the RayGen shader for optimal sample accumulation without excessive traceRay calls.</li>
