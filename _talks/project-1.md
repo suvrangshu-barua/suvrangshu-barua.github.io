@@ -10,7 +10,7 @@ excerpt: "<div style='display: flex; align-items: center; justify-content: space
 
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Key Features</h2>
                <ul style='list-style-type: none; padding-left: 0;'>
-                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Use of OpenCV Library</b>: Used OpenCV library for Performing real-time blue color segmentation via HSV thresholding and contour detection to compute object centroid; updates directional movement flags based on position; </li>
+                 <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Use of OpenCV Library</b>: Used OpenCV library for performing real-time blue color segmentation via HSV thresholding and contour detection to compute object centroid; updates directional movement flags based on position; </li>
                  <li style='margin: 8px 0; color: #34495e; font-size: 14px;'><span style='color: #863ce7; font-weight: bold; margin-right: 8px;'>•</span> <b>Full-fledged playable game</b>: Developed a game loop using the PyGame library, featuring a car selection system and binary-based high score saving mechanism. </li>
                </ul>
 
