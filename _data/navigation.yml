@@ -1,16 +1,17 @@
 # main links links
 main:
-#  - title: "Publications"
-#    url: /publications/
 
   - title: "Undergraduate Projects"
-    url: /undergrad/    
+    url: /talks/    
 
   - title: "Personal Projects"
     url: /project/    
     
   - title: "Published Games"
     url: /portfolio/
+
+  - title: "Publications"
+    url: /publications/
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
