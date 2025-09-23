@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🎮 Master’s Student at the University of Gothenburg | Teaching Assistant
+🎮 Master’s Student at the University of Gothenburg | Teaching Assistant\
 🎲 Always have my hands dirty with the latest tech - there's something magical about AI reshaping how we build, automate, and create. I'm that person who sees a problem and thinks "there's got to be a way to automate this."
 
 🎯 Currently residing in Gothenburg, **open to relocate anywhere in Sweden**
