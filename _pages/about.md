@@ -13,6 +13,16 @@ redirect_from:
 
 🎯 Currently based in Gothenburg, **open to relocate anywhere in the world**
 
+🔎 Research Experience
+------
+* Barua, S., & Pagliarani, M. (2025). **Have you ever experienced someone else’s breakup in first
+  person?** In Proceedings of the 19th European Conference on Game-Based Learning (ECGBL 2025)
+  (Vol. 2, pp. 948–956). https://doi.org/10.34190/ecgbl.19.2.3946
+* Barua A, Islam T, Alam A, Barua S. **IoT Controlled Six Degree Freedom Robotic Arm Model for
+  Repetitive Task**, In 2021 International Conference on Big Data, IoT, and Machine Learning.
+  Lecture Notes on Data Engineering and Communications Technologies, vol 95. Springer.
+  https://doi.org/10.1007/978-981-16-6636-0_32
+
 👨‍💻 Job Experience
 ------
 * Teaching Assistant (Contract) at University of Gothenburg, Aug 2025 - Present
