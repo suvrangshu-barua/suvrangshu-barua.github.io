@@ -9,15 +9,16 @@ redirect_from:
 ---
 
 🎮 Master’s Student at the University of Gothenburg | Teaching Assistant\
-🎲 Always have my hands dirty with the latest tech - there's something magical about AI reshaping how we build, automate, and create. I'm that person who sees a problem and thinks "there's got to be a way to automate this."
+🎲 An experienced game developer with a passion for human-centric game design and AI. 
 
-🎯 Currently residing in Gothenburg, **open to relocate anywhere in Sweden**
+🎯 Currently based in Gothenburg, **open to relocate anywhere in the world**
 
 👨‍💻 Job Experience
 ------
-* Lead Programmer at Beefhammer Games, May 2025 - Present
-  * Contributing as a programming lead to develop a souls-like game
-  * Creating designer-friendly **custom tools** on top of Game Creator 2.0 framework in Unity to facilitate development.
+* Teaching Assistant (Contract) at University of Gothenburg, Aug 2025 - Present
+  * Supervised four student groups in writing requirements documents and experience reports for a Software Engineering course
+  * Assisting examiner with grading the reports and checking health of the
+    teams.
 * Teaching Assistant (Contract) at Chalmers University of Technology, Jan 2025 - Mar 2025
   * Supervised student groups on Unity-based game development and guided students on OOP structure in C# and source control (Git) in their projects.
 * Senior Game Developer at Big Bang Studio Ltd, Dec 2023 - Sept 2024
