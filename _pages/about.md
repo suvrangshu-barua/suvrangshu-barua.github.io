@@ -25,10 +25,12 @@ redirect_from:
 
 👨‍💻 Job Experience
 ------
+* Thesis Worker at Autoliv, Jan 2026 - Present
+  * Exploring the usability of Game Engines in crash simulations
 * Teaching Assistant (Contract) at University of Gothenburg, Aug 2025 - Present
-  * Supervised four student groups in writing requirements documents and experience reports for a Software Engineering course
-  * Assisting examiner with grading the reports and checking health of the
-    teams.
+  * Teaching and supervising groups of students with development (Unity Engine, C#). (Design and Construction of Digital Games)
+  * Supervised workshops and aided the course coordinator with grading assignments. (Gameplay Design)
+  * Guided students in understanding and applying software requirements engineering principles. (Advanced Requirements Engineering).
 * Teaching Assistant (Contract) at Chalmers University of Technology, Jan 2025 - Mar 2025
   * Supervised student groups on Unity-based game development and guided students on OOP structure in C# and source control (Git) in their projects.
 * Senior Game Developer at Big Bang Studio Ltd, Dec 2023 - Sept 2024
