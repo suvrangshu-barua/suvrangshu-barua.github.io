@@ -32,7 +32,7 @@ redirect_from:
   * Supervised workshops and aided the course coordinator with grading assignments. (Gameplay Design)
   * Guided students in understanding and applying software requirements engineering principles. (Advanced Requirements Engineering).
 * Teaching Assistant (Contract) at Chalmers University of Technology, Jan 2025 - Mar 2025
-  * Supervised student groups on Unity-based game development and guided students on OOP structure in C# and source control (Git) in their projects.
+  * Supervised student groups on Unity-based game development and guided students on OOP structure in C# and version control (Git) in their projects.
 * Senior Game Developer at Big Bang Studio Ltd, Dec 2023 - Sept 2024
   * Successfully shipped four **hybrid casual** games (two of them passed **soft launch**), achieving an average **D1 retention** rate of over 35%, **CPI <$1** on average and an average playtime exceeding 2500 seconds
   * Led a team of 3 developers, reducing prototype delivery timelines by 20% by **Agile** workflow and sprint management
