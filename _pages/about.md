@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 🎮 Master’s Student at the University of Gothenburg | Teaching Assistant\
-🎲 An experienced game developer with a passion for human-centric game design and AI. 
+🎲 An experienced game developer with a passion for human-centric game design and AI\
 🎯 Currently based in Gothenburg, **open to relocate anywhere in the world**
 
 🔎 Research Experience
