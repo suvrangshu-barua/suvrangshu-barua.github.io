@@ -33,6 +33,8 @@ collection: project
 
 **Vulkan Raytracer** is a graphics rendering project focused on implementing real-time ray tracing using the Vulkan API. The project began as a basic raytracer and evolved into a full-fledged path tracer leveraging Vulkan’s ray tracing extension to achieve realism through recursive light simulation.
 
+<img src='/images/raytracer.gif' alt='Vulkan Raytracer' style='max-width: 80%; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;'>
+
 ## Key Features
 
 - **Acceleration Structures**: Reduces computational overhead by minimizing unnecessary ray-triangle intersection tests.
