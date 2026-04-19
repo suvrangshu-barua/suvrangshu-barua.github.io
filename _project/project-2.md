@@ -2,7 +2,7 @@
 title: "Vulkan Raytracer"
 excerpt: "<div style='display: flex; align-items: center; justify-content: space-between; font-size: 14px; background: linear-gradient(135deg, #f5f7fa, #c3cfe2); padding: 20px; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);'>
               <div style='flex: 1; margin-left: 20px;'>
-               <img src='/images/raytracer_vk.png' alt='Vulkan Raytracer' style='max-width: 80%; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;'>
+               <img src='/images/raytracer.gif' alt='Vulkan Raytracer' style='max-width: 80%; border-radius: 12px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease;'>
              </div>
              <div style='flex: 1; padding-right: 20px;'>
                <h2 style='font-size: 18px; margin: 10px 0; font-weight: bold; color: #2c3e50; text-transform: uppercase; letter-spacing: 1px;'>Overview</h2>
@@ -39,13 +39,94 @@ collection: project
 - **Temporal Anti-Aliasing**: Achieved through subpixel jittering and sample accumulation across frames.
 - **Efficient Sampling**: All samples are accumulated inside the RayGen shader, avoiding costly multi-pass ray tracing.
 - **Any-Hit Shader**: Discards intersections based on material transparency, enabling support for alpha cutouts.
-- **Path Tracing Upgrade**: Implements recursion in the RayGen shader, supporting multiple light bounces per frame.
+- **Path Tracing Upgrade**: Implements recursion in the RayGen shader, color bleeding, supporting multiple light bounces for indirect illumination per frame.
 
 ## Performance Notes
 
 - Uses direct sample accumulation in the RayGen shader for speed.
 - Reduces unnecessary shader invocations by handling transparency early.
 - Optimized for experimental research and educational rendering projects.
+
+<h2 style="
+font-size: 18px; 
+margin: 30px 0 20px 0; 
+font-weight: bold; 
+color: #2c3e50; 
+text-transform: uppercase; 
+letter-spacing: 1px;">
+Screenshots
+</h2>
+
+<div style="
+display: flex;
+flex-direction: column;
+gap: 30px;
+">
+
+  <!-- Screenshot 1 -->
+  <div style="text-align:center;">
+    <img src="/images/screen_two.png" 
+         alt="Indirect Illumination"
+         style="
+         width:100%;
+         max-width:900px;
+         aspect-ratio:16/9;
+         object-fit:cover;
+         border-radius:12px;
+         box-shadow:0 8px 16px rgba(0,0,0,0.2);">
+         
+    <p style="
+    margin-top:10px;
+    font-size:14px;
+    color:#34495e;
+    font-weight:bold;">
+    Indirect Illumination
+    </p>
+  </div>
+
+  <!-- Screenshot 2 -->
+  <div style="text-align:center;">
+    <img src="/images/screen_one.png" 
+         alt="Any-Hit Transparency"
+         style="
+         width:100%;
+         max-width:900px;
+         aspect-ratio:16/9;
+         object-fit:cover;
+         border-radius:12px;
+         box-shadow:0 8px 16px rgba(0,0,0,0.2);">
+         
+    <p style="
+    margin-top:10px;
+    font-size:14px;
+    color:#34495e;
+    font-weight:bold;">
+    Any-Hit Shader for Alpha Transparency
+    </p>
+  </div>
+
+  <!-- Screenshot 3 -->
+  <div style="text-align:center;">
+    <img src="/images/screen_three.png" 
+         alt="Color Bleeding"
+         style="
+         width:100%;
+         max-width:900px;
+         aspect-ratio:16/9;
+         object-fit:cover;
+         border-radius:12px;
+         box-shadow:0 8px 16px rgba(0,0,0,0.2);">
+         
+    <p style="
+    margin-top:10px;
+    font-size:14px;
+    color:#34495e;
+    font-weight:bold;">
+    Color Bleeding
+    </p>
+  </div>
+
+</div>
 
 ## Repository
 
